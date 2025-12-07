@@ -1,10 +1,12 @@
+import Name from "./Name";
 function App() {
 
   return (
     <>
-    <h1>Hi Abhi!!!</h1>
+    <Name />
+    <h1>Multi line tag</h1>
     </>
-  )
+  );
 }
 
 export default App
